@@ -1,0 +1,46 @@
+.container {
+    width: 780px;
+    height:500px;
+    border: solid orange;
+    background-color: navy;
+    box-shadow: 10px 20px violet;
+    opacity: 0.8;
+  }
+  .jumbotron {
+    background: wheat;
+    color:navy;
+    font-family: cursive;
+  }
+  
+  hr {
+    border: solid;
+  }
+  
+  #wins {
+    border: solid aqua;
+    background-color: aqua;
+    width: auto;
+    height: auto;
+  }
+  
+  #losses {
+    border: solid gray;
+    background-color: gray;
+    width: auto;
+    height: auto;
+  }
+  
+  #left {
+    border: solid yellow;
+    background-color: yellow;
+    width: auto;
+    height: auto;
+  }
+  
+  #guesses {
+    border: solid lime;
+    background-color: lime;
+    width: auto;
+    height: auto;
+  }
+  
